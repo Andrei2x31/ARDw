@@ -1,0 +1,236 @@
+
+@import url('https: //www.1001fonts.com/sf-sports-night-font.html');
+
+
+
+.pasi_continut {
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    margin-left: 50px;
+
+}
+
+.marime_imagine {
+    margin: auto;
+    height: 500px;
+    margin: 0px 50px;
+}
+
+.copil_continut {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+
+.parinte_continut {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+
+.continut_stanga {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.continut_dreapta {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.align {
+    margin: auto;
+}
+
+.dotted {
+    border-style: dotted;
+    border-color: aquamarine;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    text-align: center;
+    margin: auto;
+
+    padding: 20px;
+}
+
+.gif {
+    text-align: center;
+}
+
+
+
+ul.header {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: #333;
+    height: 100px;
+    word-spacing: 50px;
+    text-align: center;
+}
+
+li.header {
+    list-style: none;
+    display: inline-block;
+}
+
+a.header {
+    text-decoration: none;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: wheat;
+    position: relative;
+    top: 40px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(231, 224, 210);
+}
+
+nav {
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+}
+
+.marime_imagine {
+
+    height: 400px;
+
+
+}
+
+.img3 {
+
+    width: 500px;
+
+}
+
+.img4 {
+
+
+    width: 600px;
+    height: 400px;
+}
+
+.masa_musculara {
+    position: relative;
+    left: -140px;
+
+
+}
+
+.img5 {
+
+    position: relative;
+    left: -90px;
+    height: 400px;
+    width: 600px;
+
+}
+
+.img6 {
+
+    position: relative;
+    width: 600px;
+
+}
+
+.marime_imagine {
+
+    position: relative;
+    left: -80px;
+
+
+}
+
+.row {
+    display: flex;
+    padding: 10px;
+}
+
+.column {
+    flex: 33.33%;
+    padding: 25px;
+
+}
+
+.img {
+    width: 100%;
+    height: 30vw;
+}
+
+.imageContainer {
+    height: 30vw;
+}
+
+.ex_umeri{
+
+    text-align: center;
+    font-size: 40px;
+    text-decoration: underline;
+    color: #85ff00;
+}
+
+p {
+
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.piept{
+
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    color: #85ff00;
+    text-decoration: underline;
+
+}
+
+.buton1{
+
+    position: fixed;
+    bottom: 25px;
+    right: 85px;
+    height: 60px;
+    transition: 0.4s;
+
+}
+
+.buton1:hover {
+
+    height: 75px;
+
+}
+
+.buton2 {
+
+    position: fixed;
+    bottom: 25px;
+    right: 10px;
+    height: 60px;
+    transition: 0.4s;
+
+}
+
+.buton2:hover {
+
+    height: 75px;
+}
+
+
+
